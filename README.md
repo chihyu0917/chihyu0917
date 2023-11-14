@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chihyu0917
 <!-- - 👀 I’m interested in ... -->
-- 🌱 I’m currently learning computer science in university
+- 🌱 I am a CS major student
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
