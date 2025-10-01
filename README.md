@@ -1,3 +1,4 @@
 # Hi, I'm Sophie
-UIUC Graduate Student, Intern in CMT
-- [Personal Website](https://chihyu0917.github.io/)
+[Personal Website](https://chihyu0917.github.io/)
+- University of Illinois Urbana-Champaign, Master of Engineering, Electrical and Computer Engineering
+- Data Science Intern in CMT
